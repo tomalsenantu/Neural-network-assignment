@@ -1,5 +1,4 @@
-# Neural-network-assignment
-
+# Neural Network Assignment (Final Structured Version)
 
 ## Contents
 - Original notebooks (Problem 1 & 2)
